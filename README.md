@@ -1,2 +1,2 @@
 # miblog
-Mi proyecto con Git
+Mi proyecto
